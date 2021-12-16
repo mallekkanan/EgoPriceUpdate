@@ -2,11 +2,20 @@
   "name": "create-react-app-lambda",
   "version": "0.5.0",
   "private": true,
-  "dependencies": {
-    "axios": "^0.19.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.1"
+  "dependencies": { 
+    "axios": "^0.24.0",
+    "framer-motion": "^4.1.17",
+    "hoist-non-react-statics": "^3.3.2",
+    "react": "^17.0.2",
+    "react-click-outside-hook": "^1.1.1",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-scripts": "4.0.3",
+    "react-select-search": "^3.0.9",
+    "react-spinner": "^0.2.7",
+    "styled-component": "^2.8.0",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
